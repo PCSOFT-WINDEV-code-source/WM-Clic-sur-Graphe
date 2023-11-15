@@ -1,0 +1,192 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Graphique
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Graphique
+ identifier : 0x29d1dec103e7570e
+ internal_properties : CAAAAAgAAABm5KK4nYEMubUfD6bxFaY7HKH8u8bQ3Yc2huubdWhFHOXbMHrxL7uO5t3oCi5f/xosPPgU6Z3q9AYpVk2LXgnLTdI3HDvZg1mdld6PeYCvO9q77j73xJ13EQyWEOeVKdJ8srCDmcaxk5SnZ3VeGON1/I71RZMKWPxaJnu0NHMZVGLM/g1rePr1NAt3FhLJX1u3TfiPy7SHuhzmdT4m1niZXCro9S6knR/bMfuz80RdCLBtLgzgfclJyx2NuYsyP3P8nzM1fgXPLr6JnOP7Y5+/sogC6Y/TmlkqSDuz42/PlweeJ1SdSwZYCVrDw/we7GZOT0xqgG9MgJunHUt2XoL16Ke0QVIKpdlN+M0jTHELrm+uuEE3MCpQiNvfzSY3qE/BepSeoxyEhYpbDK2D9ckWIH/8fbSBswuVx0lWfNp1UJ5TT4Knzc/76MRiFig24XmFDE9iLEi32cTl26FKhLPoBGdTYpgx0004nLLA/ySjENKPTW9ua3MTZeFf2P86h6h4mCFN986KxeIezJ9yYXrUwrWiSy1+DfsyDIFETJbS2S5MavNa9k+IufPyYQvRnCyN20MabcYIeJHjhRjq61OP4ipS+pECXQmFZPp7+dwaj/mG29rhhhi8Xeic4d7qjUZXuC8WxHAwPQ0wqnN6ykGQnmlxYI6wx0Fh6NNAaG8ERRHTF4btT/kjOcgHpLnYlktjrrTD3MQtuyHlZ8zr1PVXcfKJ2i4XnWDXOnXme/HLTm3MywWtAVEiDGIJf883jQWBlenF78oWlv4/qdF6L4ByRGnl
+ properties :
+  width : 320
+  height : 450
+  heightMin : 475
+ controls :
+  -
+    name : CMOD_Secteur
+    identifier : 0x29d1dec703ee7029
+    internal_properties : CAAAAAgAAACaOlqHixtyDagfA/ku/Ip4TwIaPCbbjxIt9N3gf9PWZFlQJLP0nTRzIF86K213pbsOKYa0HtVDjCBK0LAhGie7qsv3A42HLmqiUf3CdP3qf1NBj3sfq8rRQEwTlMC/N7fjk6g/+hHV3zZaLHK4sH/NSGse4m3yZq17LRDlwGmC4jXmBSVJnHgzsiJL6XPkpxWKeArKSIM1IgAFcM7ZtUDNTVAcdgIWfW+afs5iFtIZO9BoWRQ6wZ30rDOzAWojhnD4Eoq3bkYgwA569G0pObj67tcbk/yMjo5uQtfn30fK6bHE3bXPkzQM93HWYtSZIguqCAmfIe1q+nQ4DGhovoX9gsG23AYH5dbFhIS7p3PLjXVvsKr9IjYu4cU2e/2cFi6rgo4dBhXI79UFOtn6YOyezWqzklOvDnXG5xRgUfoweyWTKwwAaXSaFQD5rWyIBI6UKPrdhQUYBjcRPJ0ga2uPcvUYS4TPIVUx1BnqTi5NvAHawIoHFB5C8usjWHbdc210injPKCCHWchb8JW9D1msJiv7vV/aC7WVkENy+3R2TqyuBSWnS7fxnn+oaQNzi+Wg+koBmDLJt6Gxmmf/kdhJTC+c/bpe6LQXbdoV71Iwy8GpzavfW/yeg9TIp4cKkOaqj1YGJC4oL+mVEs9oiTrugqONpatB0urFHpUXF1Am29cZTt/MVPNcOEiFTfLib3hz1Yb2o5pcn8VKOHC/5bLGY5eiCJJSbB51TB1Ud/kHfxyXWyhNnhe/MOjV04U0KEWmLYBmliB6T/vhAkzYqsW7m9XAFkwIq6fexUR2cWwKjPpE78yMrI+rkdGuB8ThIPViyGuAWjqHmvhp+JytP5nxuZqKU6vN+bOXRvPubHH8QSFef6YmC8iDPXOwbaLTF8KDCc93TIoB7bKyfEgwKCckYCtvwfxKArVq9UZd
+    properties :
+     x : 10
+     y : 147
+     width : 300
+     height : 300
+    controls :
+     -
+       name : GRF_GrapheExcentre
+       identifier : 0x29d1dec703f77058
+       internal_properties : CAAAAAgAAAB1W56P6zgr5qsOm8MD6QOPUxSwuQLc+l84gVV2hSsxWj8fTJ8GN/QIDgI5o9ResDZ9wnSNaiEWFYC0Nc4qeVc8PEdoTGduM39dtZNh05PLpEzM1PBRS9tcBtQvj99zDWoqzQeY/H8TIo226H1NshyHAqf5/TMdmi3lRHfT2glP1ZBClQqvDfy6BCSTirBGZ/lXjvm8LB+PbvljttAI3gKCCnEnnJukEC2ibOxfntlnOMY9tmEXa9i8ddbOjQCPnE/148fAQgOnBynipap/ZK0EG1Cz+PSTes/6NUDF6Nw/g+pa7WL5cEYD+FR+tilxe+wsO2ky0byCbx034GV814l4j/KMymSt8/6Ul4sGnxBTOIa8zX2S2b/mgK4SzrKe91+uMykQwVoU1ls5acvEqrkgksMb+sk66bulPqngbztowzzVLh6FDNJQqZQcINd7+ZlpAZyDSgEfSmyDcGK4rEyMfPe7khhzoUaJY1YeSgGwNf55zm6csCBiACwBKEhuGCpAKJskMsg4wb0zW0YAI8iCkT3E4YOdkCmEDrhwcrlhjEp3mDYDamBetRPGsO7R9p/Fqu5EvN/tTHgcmLCzeQQWHQk6pA5WdCgpN0SexrlgpFQloP6GhlN+c7T6JOJaqytHDr5QyS21GDnV2R1YjxTC4QhjBt81ic9mCIt81IJQzZjOoH8LcR4AnJzn3NS17A9SQGXNL184etKRcwN7QWGkmz+sTVY6bO7zfi2/uqYKtfh5QsE7if2S+uNgGCHlx1fOJZ7k90nhs9+5PH8cSQ/S8d8/jiaefnteZ9oo/bIEdtsw8dbIUJyCt3i0fBLwgdffaRvjXx16WmgSUFD7bNQNHAv9iiz9zZOLal85gD4DAr8487mHhA/Fe/KN157M1uQdQZ1rnt4H9Cglk+Z4ejY/wzbyL/9QfcxP0xO9IAxtlDSSynb6LrwHT5tU3tZduJBxXrctYVfV4EEafmSltN2ZMKzkRRjawN32C4audjEqc1+QHBZrWjqjd8suOzNMD/WJF6jTVvd9dFECGa/Yc0a08p4uZCjXuJSH1wIF+EH0plPZm8YtMobAmWBq8TDbvn2aOYLsypymOHeMdn11U2oA5a8SimhzD+sZ9NEv/up79fCs+tNj3VpWZ18iVM3Lv42i8ZXFz9GWe92TnEM5KDq3qC2AfT2qMCznwkx5B4efCLEwUxYcIWMiCH9rZ8c/Qggk14mg7frTqh6SSmx+AwopSdaJOZlVwKHtXZ0f0+0EN+5q/KaUkMvbagG8Rd8dGjypZORsCs5lqx8e6xjFfRVF7/qZbwppGODO9xJyCZgqFpwtx/eTnMiaD1DPpOMbEbsIHHtxfc9jzriGv03gq/yDIt2XnvwQi6BnH7+sGWULJ2lZiWjsAUzt
+       properties :
+        width : 300
+        height : 300
+       type : 33
+       code_elements :
+        internal_properties : CAAAAAgAAAChoTVtRWA2JGy9//LtVux8MCRP+O4bCes+NStLWfPaM8Nq3m6kn/Km23DIrtbRMsQPihpLli3JazYk5Nsv+l0/S4mxIalZq2iO/AoHNvKMQZELOcXEwQRJEnCsEtD7Az/nToI=
+        type_code : 72
+        p_codes :
+         -
+           code : |1+
+            // Excentre la part cliquée
+            ExcentrePart(SourisPosX(),SourisPosY())
+            
+           type : 18
+    type : 43
+    code_elements :
+     internal_properties : CAAAAAgAAAD5ZrAzbEYAumR5xvdv+HHrMCPiBu9eVQqevs3avUmpxlXZnCCKTq57504OZ/KUPZwq3CyZsA1J6X7HucZGpMc65i1/B7E6ZZ5oq/gnNw4MP7ySjArg1ACogu9PfkaAAMe9azTD
+     type_code : 93
+     p_codes :
+      -
+        code : |1-
+         
+      -
+        code : |1-
+         
+        type : 14
+     procedures :
+      -
+        name : ExcentrePart
+        internal_properties : CAAAAAgAAAA/IPb5ymx+MPIfCA2phq8pdt0ozEXkQ3C8FIkGvVVZ/hGlxCwGyr5Pc0qT745MoYgi1B6bnm+bu7yVdywI4o18KMc1LTO4y0QCQY5JESR2pQJYykyiCjpiSCV1ENAW6i0DMXIF
+        procedure_id : 1496928331819072053
+        type_code : 14
+        code : |1+
+         // Résumé : Excentre/Recentre la part cliquée
+         // Syntaxe :
+         //ExcentrePart (<nPosX>, <nPosY>)
+         //
+         // Paramètres :
+         // 	nPosX : <indiquez ici le rôle de nPosX>
+         // 	nPosY : <indiquez ici le rôle de nPosY>
+         // Valeur de retour :
+         // 	Aucune
+         //
+         
+         PROCEDURE ExcentrePart( nPosX, nPosY )
+         
+         // Variables locales
+         nIndicePart		est un entier
+         
+         
+         // Récupère l'indice de la part qui vient d'être cliquée
+         nIndicePart = grInfoXY(GRF_GrapheExcentre, grCatégorie, nPosX , nPosY )
+         
+         // Si l'indice est "hors bornes", ne rien faire
+         SI nIndicePart = -1 ALORS RETOUR
+         
+         // Inverse l'état courant de la part dans le tableau (excentrée => centrée / centrée => excentrée)
+         gtaPartsExcentrées[nIndicePart] = PAS gtaPartsExcentrées[nIndicePart]
+         
+         // Excentre (ou recentre) la part du graphe
+         grSecteurPartExcentrée(GRF_GrapheExcentre, nIndicePart, cstExcentration * gtaPartsExcentrées[nIndicePart])
+         
+         // Redessine le graphe
+         grDessine(GRF_GrapheExcentre)
+        type : 458752
+     templates :
+      -
+        name : CMOD_Secteur
+        identifier : 0x1543d95600359f39
+        code_elements :
+         internal_properties : CAAAAAgAAAAosX3s1KDM3vxntlFduPIatOvau3bAo+JPbjMd08IZPvYLD8edSg3DBWr7WgeQnUBLaVFj3Vu5iFOD6PMi+hoHIGFSrERZu45eOQegbWzJzAHRnd9aJ04dxoDW8YV/SvCuUjkJ/f3DDvQ=
+         type_code : 93
+         p_codes :
+          -
+            code : |1+
+             PROCEDURE MDLC_ExcentreGraphe()
+             
+             // Constantes du modèle de champs
+             CONSTANTE
+             	cstExcentration = 10
+             FIN
+             
+             // Variables globales du modèle de champs
+             gtaPartsExcentrées	est un tableau associatif de booleen	// Tableau contenant l'état de chaque part (excentrée ou non) du graphe géré
+          -
+            code : |1-
+             
+            type : 14
+     procedure_templates : []
+     property_templates : []
+  -
+    name : LIB_Libellé1
+    identifier : 0x29d1e846067786e5
+    internal_properties : CAAAAAgAAACaKO2efNpkE/O7aYHc1JSWb8pYQDqguorGRJGvLpEDl/2p3fscsXjh1F+BLwacUV27lbzm0bvQFOxLMTK0TYdC/btaVrRA7hLvGhtewqi3Y6Y+iXQuf1Y/vBNY3s+U4qfLlnIaEj1hQfdIxHSvpK3lm+gzf85O5gy4+YHJkxrggn/VgpCzFk8498lfbdPd4AICQ8/oy4z7PDx/b0HkPssQptClTzTr52IBQtnI3nYOseyacDCpCde/938tFE4K6AsUpc4XoDkC4b04TojPdAKl4IqMa5RFfFOK7ebfZ3T8ymL4DNp3SCvYl7l7Gi+scz+WnNMgtOxXWTeKT4lWg2gP4yzgFw9TP2mH4O03VGb7pztSBv/QzoMdlbCQdUcgK8yoWudf35b6jxEKdSF9GrlqY++aRi4Ut9bJaY/I+69/wRoDwDtj0fsxpjhxPoyL/qQWtBjcsy7lbxQkOarKQKHkA9EvGOkHiKRczJHNUwEv11qVuUyNqPEgBGym2y0il1BJM4LveIIbpRBI7kH89Gl3ioDlV+gEAr5e6yCNI8lrCkpogHnfWO7QjAF2c+Fo8WwnHKAkLVe4KsXEgM0UKynJncVJFREj3BaMuXp6+qq7TgOzysOmErxvZZ/DywN522cBYny5EqSrx4+kU5fHegrjeRVtc9GbUZX8Z+bCSFyCtJpIdjkhiFY+MOg=
+    properties :
+     y : 10
+     width : 320
+     height : 130
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x29d1dec103e9570e
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAD9Im+dVFgmzqQX1cWksKDT4RdKbUURdKnD+x7VN8mLH9uCY5fkTudZU3F8h6RC2BE1u1HIjeuclHivm/gDc8NWKwguGsnc1GgEuFBiKxR8g+mK2tdp+ofqw7S8
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAABavI6lR5PtL+T5P4qTb2q4LQOep5KDqHaAYh79MJiCzxq/jIQ4Gf7Lam+yPwco/rDxgVHkKUz4Kn89RhIJBwyA30nZea7MqGB+Hxq0xJDK/aHdQzuL9XmP5pXtsYxk9juutf9aAtlFR4EroGNUff+wePUTzCaqSbjDkIjvAzdlnR5a96SI2LJHtOF8Gw==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x114a03f8028a4819
+  internal_properties : CAAAAAgAAACgUfooJ4ejDOqogJDf+IBdSde9HjPADLFDrDo6d3rif2fDBp/Oc6B2KQc620ehPcS0pG4J0zx7
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Graphique.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,125 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : MDLC_ExcentreGraphe
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : MDLC_ExcentreGraphe
+ identifier : 0x29d1de7e037451a1
+ internal_properties : CAAAAAgAAADu/n2GfdTuY4ZMOXCfUrAUYc81sZm65KdX0emZ3VrjG7N0PyD6RdSpHVA0t3X9WVy3O/UO2S5mNR2akWMLrMvEIT9+/Iu9LF35ug+cWtHtDwAnbF8OUKBBtYteMfUg9DbBGYJKbkETsxpAHQrY2uHX4qSdxVZoCi6gVeCi4TVj2YSPKBMX/MDNnN56iycOUkYgf1tUt4Xdrj/mRxOVDsBAmLUjWyFcXRbuoFpg1f30J8pLI1pcTASsIb9qT2jxpuiCR2hWqWxIK1ton4H6NQpv7gq836JXVQXDdOZw3MTPfd534P8qrNXnBSmbitkULyleFPgNizVZh2s8fna707scF6sLyW5Fbfoo1mHzsEvXbjlMqIyGiEr7eEeiG6QGZhEZAix7M02OuN2Ozh6YC/DkaUfxkcjFU1L8O+EzkC5/8aAQi4t+qA+SrquiEasFu+ZkGjFCKx85CR8IT5XeNkeBNunDPPYUagL2YKWa5pzeRCpVLJrTxvGE3JRGfm5THzRSsm17tbt+XddmpY4EbY0fHfXyt8tZbFx8jZ50uYoM1KMpMB2BbnGvg5OM14th51uTZvjdN8PX27gP7YsTxYcJWLW7H3+9nAqD6Qo/pwzNWDA5KxQX6nD+WY4JhfUGWDNo3fGEg4nhTe/hJK0T1xAyVvA4JtN1hnQxOis1tqH18wOg1PVv3rFFSVm+coiFaTporDbgFhnzTsBOLK7B5L1PlXlwZlrGvL7qag54hh0VlNePTuMNy+7OARmtxPQmCETP60Z7J3Imp/NOcWbswLgbF8X9VA05uwONvUKdBaMS3Y1sFKQkWJFvy30qtrTCZf+1iYT0OseoUHmEt1Hzl6iKheWZ+OyZrAP5ASqh
+ properties :
+  width : 208
+  height : 121
+ controls :
+  -
+    name : MDLC_ExcentreGraphe
+    identifier : 0x29d1de7e037751a1
+    internal_properties : CAAAAAgAAABAp62Dr05O/YtfNhKHBMyOpf4O/AO+O3NdNtrbWhBHRWfu7vWyUB9PIQ2LS2thTteoLBCic+fxCgNnDPOKZvl8xR2gcBbSsaeU2so11G3N0D9pdfVCuPsicRJLjXcZG+AcltPVRshwg+9rf7U+ygz9zHT2RKkqEGe1MlMKWYhJhRLxxWzWeYV8URroIHVuRvVdQRDhnsCiK+lxqoFp29FddRToJHPe5Aei3MUU41mWtFIcBJDsivn9Kdq0SXl91zXEjVijXfotJbCSTwjgtBgagy6XRFeI79IShOiaexkTYW6GGLjwAsRFpX5Zvv4Qki6CNnMeGQv28wA/kEdKvr+64Fmo1zQFbFEXO+hcAgQBbkmUkV5GR93g3Solhy7UZN2anMkrK74AxchTmtlpBe7SgrZ25yDRSlsErq4RDKLOUCVDP5zjoPAxr2A2RJzxo80g6U9I9nJ0nIuMMPeyWa6cAmyKaeqkKhvIaaE=
+    properties :
+     width : 212
+     height : 150
+    controls :
+     -
+       name : GRF_GrapheExcentre
+       identifier : 0x29d1dea20379e02a
+       internal_properties : CAAAAAgAAABXLAQEWLaUWO1bqbtbeP71Iwcvw8LA+yV7qIISB5VxmUoKqe1QYBZ9Xab5zY8JTs2ST2uOFN7Js5Z2xUq0Gfw5BL0ljZHiJ2qe6Um+vldMydfFNRGN2v9mEpYfqpAi/3KTwadizvkw3GSqWc0ZV5g76Bm5bE6CSwn/ieT2lsDQfbEzG1jxHhip+16246yTDbJhZfiPdweZIhP0Gfzfi/0MP7jqzlsdXilmN0NRYNKmTJ3/lHBRG1RaNanXj6fJDn5Ltyi7aNnkxuB0hFYZe9iYAVveV9bT6GmCN2LMndd+TWQALSADwuooI22Y8ghvHhA3PK4fIdPLMB2m4fn0x3AbrOONdJuER10gBby3B9XlqHqzujqAL7Mvdzr1DwkgtW7shtVo6s1FewrAjgc0McZ4448kgJwSKbFH0aFMllftdsBoUAbIlvGMQxAZBNQVe9FslS2rzPazQ8QhlHO3eMH0ue9Zm8kYTU8qXm93oQmA3A5ALlKOrVWSbaxLU5Yfe1WtqdFn83WeVXOEnAX0o20vRoW0EOMKCHkcFNfE6P05dPEEmlpJy5lZoRTPz37TIyuAfIFylegIsV13Hszxq824YsP7FrrUCI1HW/jvFaBvSj/kFTumAiG21PfXumsKf8EDf1dMKNab0XgBQatVO2jd6rhNCkri+MgQvDCwdf37awGw1SS8Z7B//akG3oWYEE79orfdipDWE2wra1tlNeHboHtaci2wQODyUaWoIIcgHAAVfCBxydiezGbFNR1Ehc/y1a9On1MHDAggfT0By6YUIhuwi6vJRy2LAhSPgt7230/vPhSgnWy4cAwCtdo3RpxDoCb99xNUaHwOgAVFkPPdZDQJMH/mJiRFoD01b7wwhban6umMQ9OsJHCNavCCl9QOSFbh6/YfK2d7KfG+O+kBQNvAKT1KTL4HRhrP0GnZ/xnqVZSR0AYsiosq2OjyK05y8qcgfYzMKqz3gtSPxT8XqxFgVVQrXZwZ307RYNNw/AImu23YdAhsRpgOyiWxSFRa9xx+lwurFu1OEV0nbMHvh6LOmAT0UijY1b4BcKfr6o3zisjJWNge0GAeW46p1TX/JBKB9G0XCg7y1ys7ogx9g/EOXRhpXDVJPr8iL4lwUQFPzaPtYKQxGCurauG4azoAyZPo/P0gxmjm8CsMXcAVX+HGoU1iK/YZEnuHrnyzFsFD/VnnkMRNlQ3L4sYY2ApRVI1OaYAmFQwMIEd92vvV/yvxkNsq7Wa2gHkH0Ie9ZN8KJcPzxfilgoWkwvAYT1Ydlk4Mdf0r59m2dG/B5VbNgRLAKd0hvAnz
+       properties :
+        width : 212
+        height : 150
+       type : 33
+       code_elements :
+        type_code : 72
+        p_codes :
+         -
+           code : |1+
+            // Excentre la part cliquée
+            ExcentrePart(SourisPosX(),SourisPosY())
+            
+           type : 18
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MDLC_ExcentreGraphe()
+         
+         // Constantes du modèle de champs
+         CONSTANTE
+         	cstExcentration = 10
+         FIN
+         
+         // Variables globales du modèle de champs
+         gtaPartsExcentrées	est un tableau associatif de booleen	// Tableau contenant l'état de chaque part (excentrée ou non) du graphe géré
+      -
+        code : |1-
+         
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x29d1de7e037651a1
+  internal_properties : CAAAAAgAAACBvl4EOLUNU7cOawx67+MOosMUjTxkTmpI2ago7w/sAEdgqssYQiRx4NYvvsFOiiSARU0xk7h7L1qI3KQyp1Mp5sg2KsjVCt6/z8tB3YZ0KH2MGYZknVYrlp5lTj/EUAUVtQcvkMHVP/tDBz5kM+EgZyE80Wb8AkHErQ/6UcpAJ956G8/t9ntXInrRDS4+gCGcmouc9KsfBLkW+YO9TI1bc+WdIVIAZ5+k3vpHNNS5RYlWGR9tjLrXoesjuXjrihO6++Gn1g1epWcdv6VaKP6xOmWjCTMhe/J2Dlw5/qk=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+  procedures :
+   -
+     name : ExcentrePart
+     procedure_id : 1860513668657287504
+     type_code : 14
+     code : |1+
+      // Résumé : Excentre/Recentre la part cliquée
+      // Syntaxe :
+      //ExcentrePart (<nPosX>, <nPosY>)
+      //
+      // Paramètres :
+      // 	nPosX : <indiquez ici le rôle de nPosX>
+      // 	nPosY : <indiquez ici le rôle de nPosY>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      PROCEDURE ExcentrePart( nPosX, nPosY )
+      
+      // Variables locales
+      nIndicePart		est un entier
+      
+      
+      // Récupère l'indice de la part qui vient d'être cliquée
+      nIndicePart = grInfoXY(GRF_GrapheExcentre, grCatégorie, nPosX , nPosY )
+      
+      // Si l'indice est "hors bornes", ne rien faire
+      SI nIndicePart = -1 ALORS RETOUR
+      
+      // Inverse l'état courant de la part dans le tableau (excentrée => centrée / centrée => excentrée)
+      gtaPartsExcentrées[nIndicePart] = PAS gtaPartsExcentrées[nIndicePart]
+      
+      // Excentre (ou recentre) la part du graphe
+      grSecteurPartExcentrée(GRF_GrapheExcentre, nIndicePart, cstExcentration * gtaPartsExcentrées[nIndicePart])
+      
+      // Redessine le graphe
+      grDessine(GRF_GrapheExcentre)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_ModèleChamps1
+resources :
+ string_res :
+  identifier : 0x114a03f8028d4829
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
